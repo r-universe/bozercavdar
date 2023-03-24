@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "less"]
+	path = less
+	url = https://github.com/cran/less
+	shallow = true
+	registered = true
